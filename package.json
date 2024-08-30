@@ -1,0 +1,12 @@
+{
+  "name": "quizz-js-vanilla",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "start": "node index.html"
+  },
+  "author": "Matheus",
+  "license": "ISC",
+  "description": ""
+}
